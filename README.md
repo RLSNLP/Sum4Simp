@@ -6,3 +6,5 @@ The S4S dataset is a stardard sentence simplification dataset mentioned in the p
 If you want to obtain the aligned sentence pairs yourself, you should download the CNN and DM datasets at first. Then, you need to run 'python align.py'.
 
 If you want to filter the suitable sentence pairs from the aligned pairs, you should calculate the attribute values at first. We have upload some example files (for WikiLarge) and you could run 'python filter.py' and check out the total scores. You could set a threshold to filter the pairs you need.
+
+If you have any questions, please contact us: sunrenliangpku@gmail.com
